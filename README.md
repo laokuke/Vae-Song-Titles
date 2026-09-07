@@ -2,7 +2,7 @@
 
 > 收录许嵩发布过的几乎所有歌曲，包括正式专辑、单曲和以前的小样及翻唱。
 
-**👉 [点击访问许嵩都写过唱过哪些歌？](laokuke.github.io/Vae-Song-Titles/)**
+**👉 [点击访问许嵩都写过唱过哪些歌？](https://laokuke.github.io/Vae-Song-Titles/#0)**
 
 ## 署名
 
