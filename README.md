@@ -7,7 +7,7 @@
 ## 署名
 
 整理：B站UP主 [@我贼6贼6贼6](https://space.bilibili.com/12550061)
-交流：Q群 730818497
+交流：Q群 [730818497](https://qun.qq.com/universal-share/share?ac=1&authKey=FYaxIkWhI4yBH%2FwOQ11MfMztqvTh01mZg%2FZ0mDuqYZ1ifTtdAuMXu5yZN26D%2B4Nz&busi_data=eyJncm91cENvZGUiOiI3MzA4MTg0OTciLCJ0b2tlbiI6InBtbFFkZEZnRUhFUWdoWFVCZ2llaHlUSi9ZUjNIVXUxN0tuU2NQbjB6WUY2bXI0TDBSVjJMMmdUU3R2SlVkSTAiLCJ1aW4iOiIzNTAwMzcxNDM0In0%3D&data=qFl_JGJDONyoScZ45ESKEZVoMw_qoBocnsxTs12E35c6ejMCMK2fue9GYW80T10NecG-47c98vBTcOgEGpPW8w&svctype=4&tempid=h5_group_info)
 
 ## 版权声明
 
