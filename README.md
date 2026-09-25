@@ -18,6 +18,6 @@
 - 如版权方认为本项目侵犯权益，请联系仓库所有者，将第一时间处理
 
 ## 我的其它项目
-[山水之间导航站-嵩鼠入坑指南](https://github.com/laokuke/songshu-nav)
+[山水之间导航站](https://github.com/laokuke/songshu-nav)-嵩鼠入坑指南
 
-[嵩词百科-许嵩歌词意象资料库](https://github.com/laokuke/vae-lyrical)
+[嵩词百科](https://github.com/laokuke/vae-lyrical)-许嵩歌词意象资料库
